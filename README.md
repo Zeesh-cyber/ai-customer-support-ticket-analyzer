@@ -5,6 +5,12 @@ An AI-powered IT support ticket analysis and automation tool designed to help su
 **Built by Zeeshan Hassan**  
 Python • AI Automation • Microsoft 365
 
+## 🚀 Live Demo
+
+👉 **[Launch the Live Application](https://zeesh-cyber-ai-customer-support-ticket-analyzer-app-jxzvcv.streamlit.app/)**
+
+Try the live application to analyze an IT support ticket, classify the issue, receive troubleshooting recommendations, and find relevant Microsoft Learn resources.
+
 ---
 
 ## 🚀 Overview
